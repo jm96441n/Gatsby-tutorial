@@ -5,7 +5,7 @@ export default () =>
   <h1>Richard Hamming on Luck</h1>
   <div>
     <p>
-        From Richard HAmming's classic and must-read talk, "<a href="http://www.cs.virginia.edu/~robins/YouAndYourResearch.html"> You and Your Research</a>"
+        From Richard HAmming's classic and must-read talk, "<a href="http://www.cs.virginia.edu/~robins/YouAndYourResearch.html">You and Your Research</a>"
     </p>
     <blockquote>
       <p>
